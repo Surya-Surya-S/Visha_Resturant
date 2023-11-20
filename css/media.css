@@ -77,6 +77,9 @@
         width: 100px;
         margin: 0 auto;
     }
+    .food_link, .food_link a{
+        max-width: 50%;
+    }
 /* history_end */
 
 /* statistics_start */
