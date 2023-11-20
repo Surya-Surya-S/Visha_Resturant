@@ -170,7 +170,7 @@ button.btn{
     line-height: 28px;
 }
 .food_link, .food_link a{
-    max-width: 22%;
+    width: 22%;
     color: #ffffffc4;
     background-color: #bbb;
     cursor: pointer;
