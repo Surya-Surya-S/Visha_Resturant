@@ -1,5 +1,16 @@
+@media only screen and (min-width: 992px) and (max-width: 1144px) {
+/* history_start */
+    .food_link, .food_link a{
+    max-width: 28%;
+    }
+/* history_end */
+}
 @media only screen and (min-width: 768px) and (max-width: 991px) {
-
+/* history_start */
+    .food_link, .food_link a{
+    max-width: 32%;
+    }
+/* history_end */
 }
 @media only screen and (min-width: 320px) and (max-width: 767px) {
 /* banner_start */
